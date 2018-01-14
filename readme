@@ -1,0 +1,7 @@
+This program simulates a limited version of the Chord distributed hash table, where
+the nodes are modeled by different processes on the same local machine, instead of
+other computers.
+https://en.m.wikipedia.org/wiki/Chord_(peer-to-peer)
+
+Originally written for a graduate course.
+James Williamson, 2016
